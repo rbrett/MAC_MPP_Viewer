@@ -15,7 +15,8 @@ Solution for reading and viewing M365 Microsoft Project files on a Mac
 11.  Use ./mpp-to-projectlibre.sh to convert and launch projectlibre app all in one command.
 
    
-<h2>Usage:</h2> <code>./mpp-to-projectlibre.sh ~/plans/programme.mpp</code>
+<h1>Usage:</h1> 
+<code>./mpp-to-projectlibre.sh ~/plans/programme.mpp</code>
 
 Three design decisions in ./mpp-to-projectlibre.sh:
 
