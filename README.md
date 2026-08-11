@@ -1,5 +1,5 @@
 # MAC_MPP_Viewer
-Solution for reading M365 Microsoft Project files on a Mac, for review
+Solution for reading and viewing M365 Microsoft Project files on a Mac
 
 ===
 1.  Download ProjectLibre from https://projectlibre.com
