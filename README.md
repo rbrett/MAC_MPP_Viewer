@@ -17,6 +17,7 @@ Solution for reading and viewing M365 Microsoft Project files on a Mac
    
 <h1>Usage:</h1> 
 <code>./mpp-to-projectlibre.sh <i>project-file.mpp</i></code>
+
 e.g. <code>./mpp-to-projectlibre.sh ~/plans/programme.mpp</code>
 
 Three design decisions in ./mpp-to-projectlibre.sh:
