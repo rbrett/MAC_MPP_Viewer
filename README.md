@@ -7,7 +7,7 @@ Solution for reading and viewing M365 Microsoft Project files on a Mac
 3.  run:   <code>brew install openjdk</code>
 4.  download install-mpxj.sh from this repo
 5.  <code>chmod +x install-mpxj.sh</code>
-6.  run the <code>install-mpxj.sh</code> script found here, to install the conversion library.
+6.  run the <code>./install-mpxj.sh</code> script found here, to install the conversion library.
 7.  To test, run the script created in the above step: <code>./mpxj-convert.sh input.mpp output.xml</code>
 8.  Open output.xml in ProjectLibre
 9.  download ./mpp-to-projectlibre.sh from this repo
