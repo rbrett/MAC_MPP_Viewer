@@ -6,4 +6,5 @@ Solution for reading M365 Microsoft Project files on a Mac, for review
 2.  make sure you have homebrew installed.
 3.  run:   brew install openjdk 
 4.  run the install-mpxj.sh script found here, to install the conversion library.
+5.  
 ===
